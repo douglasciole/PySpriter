@@ -30,7 +30,7 @@ class Window():
         self.addTopMenu()
         self.drawElements()
 
-        self.master.title('Teste')
+        self.master.title('PySpriter')
         self.master.geometry("800x600")
         self.master.minsize(800, 600)
         self.master.mainloop()
